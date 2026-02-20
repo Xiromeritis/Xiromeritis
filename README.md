@@ -4,7 +4,7 @@
 xiromeritis@github:~$ ./whoami hua:dit
 ```
 
-`~ BSc Candidate @ Harokopio University of Athens`
+`~ BSc Candidate @ Department of Informatics & Telematics, Harokopio University of Athens`
 
 ## Tech Stack
 
