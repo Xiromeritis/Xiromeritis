@@ -56,6 +56,6 @@ xiromeritis@github:~$ ./whoami hua:dit
     <td align="middle" valign="middle">
       <img alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;"/>
       <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>
-      <img alt="Linux" width="40px" src="https://www.svgrepo.com/show/353762/freebsd.svg" style="padding-right:10px;"/>
+      <img alt="FreeBSD" width="40px" src="https://user-images.githubusercontent.com/17973728/28861250-6aa417e8-7736-11e7-9fed-473d1512c61d.png" style="padding-right:10px;"/>
     </td>
   </tr>
