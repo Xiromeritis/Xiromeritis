@@ -6,6 +6,10 @@ xiromeritis@github:~$ ./whoami hua:dit
 
 `~ BSc Candidate @ Department of Informatics & Telematics, Harokopio University of Athens`
 
+<div align="center">
+  <img alt="Charlie Sheen Smoking" src="https://tenor.com/view/charlie-sheen-smoking-japanese-advert-parliament-gif-14727306373457088566" width="40%" />
+</div>
+
 ## Tech Stack
 
 <div align="center">
