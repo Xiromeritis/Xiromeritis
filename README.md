@@ -1,16 +1,61 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Xiromeritis/Xiromeritis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+xiromeritis@github:~$ ./whoami hua:dit
+```
 
-Here are some ideas to get you started:
+`~ BSc Candidate @ Harokopio University of Athens`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="middle" valign="middle" width="150">
+      <h3>Languages</h3>
+    </td>
+    <td align="middle" valign="middle">
+      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
+      <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right:10px;"/>
+      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>
+      <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="padding-right:10px;"/>
+      <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;"/>
+      <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="middle" valign="middle" width="150">
+      <h3>IDEs</h3>
+    </td>
+    <td align="middle" valign="middle">
+      <img alt="Intellij IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
+      <img alt="CLion" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" style="padding-right:10px;"/>
+      <img alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
+      <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+      <img alt="Neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" style="padding-right:10px;"/>
+      <img alt="Vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="padding-right:10px;"/>
+      <img alt="Apache NetBeans" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" style="padding-right:10px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="middle" valign="middle" width="150">
+      <h3>Tools</h3>
+    </td>
+    <td align="middle" valign="middle">
+      <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;"/>
+      <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>
+      <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;"/>
+      <img alt="Apache Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" style="padding-right:10px;"/>
+      <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="middle" valign="middle" width="150">
+      <h3>Operating Systems</h3>
+    </td>
+    <td align="middle" valign="middle">
+      <img alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;"/>
+      <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>
+      <img alt="Linux" width="40px" src="https://www.svgrepo.com/show/353762/freebsd.svg" style="padding-right:10px;"/>
+    </td>
+  </tr>
